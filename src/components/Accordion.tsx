@@ -50,7 +50,6 @@ export default function Accordion({
 }: AccordionProps) {
   return (
 <div>
-  {/* Step خارج الـ Card */}
   <div className="px-4 pb-2">
     <span className="text-[10px] font-semibold uppercase tracking-[0.18em] text-gray-500">
       STEP {step} OF {totalSteps}
