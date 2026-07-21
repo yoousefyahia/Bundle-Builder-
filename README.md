@@ -1,4 +1,4 @@
-# Frontend Take-Home Bundle Builder
+# Home Bundle Builder
 
 A React prototype for building a customizable security system through a multi-step bundle builder with a live review panel.
 
